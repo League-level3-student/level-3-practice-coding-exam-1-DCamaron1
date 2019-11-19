@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 import java.util.HashMap;
 import org.junit.Test;
 
-public class Level3Practice {
+public class Level3PracticeA {
 
 	/*
 	 * The League is having a fishing contest!  The weight of each fish a person caught is stored in an array
