@@ -38,7 +38,7 @@ public class Level3PracticeA {
 	}
 
 	/*
-	 * The winner is the person whose fish's total weight was the most
+	 * The winner is the person whose biggest fish weight was the most
 	 * Remember that fish less than 3 pounds were thrown back
 	 */
 	@Test
